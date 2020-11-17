@@ -10,7 +10,13 @@
 # Run Program 
 
 open terminal and type the command as python tcp_server.py <IP Address> <Port Number>
-                  Example: python tcp_server.py 127.0.0.1 8080
+
+
+Example: python tcp_server.py 127.0.0.1 8080
   
 Open another terminal and type the command as python tcp_client.py <IP Address> <Port number>
-                  Example: python tcp_client.py 127.0.0.1 8080
+  
+  
+  
+  
+  Example: python tcp_client.py 127.0.0.1 8080
